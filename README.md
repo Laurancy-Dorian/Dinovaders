@@ -1,8 +1,8 @@
-                    Dinovaders                      
-                Javascript Project                 
+               //////////////////////////
+               /////// DINOVADERS ///////                                       
+               //////////////////////////
     Dorian LAURANCY - Arnaud DUCRET - Weslie RABESON
-
-              Projet de Javascript - G2
+    === Projet de Javascript - IUT Montpellier - 2018 ===
 
     Ce jeu est une adaptation de Space Invaders et un space shooter.
     Le joueur doit repousser des vagues d'ennemis de plus en plus nombreux
